@@ -33,6 +33,7 @@ nav{
 h2,h3{
     border-bottom: #dddddd;
     border-bottom-style: solid;
+    padding-bottom: 20px;
 }
 
 #profile{
@@ -94,6 +95,15 @@ p{
     border-style: solid;
     border-color: #dddddd;
     background-color: #ffffff;
+}
+
+#socialIcons{
+    padding: 10px;
+}
+
+.hover-outline:hover {
+    outline: 3px solid gray;
+    outline-offset: 0px;
 }
 
 footer {
