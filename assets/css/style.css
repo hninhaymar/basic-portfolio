@@ -94,6 +94,7 @@ input[type=submit] {
     padding-right: 10px;
     width: 290px;
     height: 180px;
+    margin-top: 10px;
 }
 
 #relative2{
@@ -102,6 +103,7 @@ input[type=submit] {
     padding-left: 10px;
     width: 290px;
     height: 180px;
+    margin-top: 10px;
 }
 
 #parent{
@@ -113,7 +115,7 @@ input[type=submit] {
     position: absolute;
     text-align: center;
     float: left;
-    bottom:5px;
+    bottom:0px;
     width: 290px;
     background-color:  #4aaaa5;
     color: white;
@@ -125,7 +127,7 @@ input[type=submit] {
     position: absolute;
     text-align: center;
     float: right;
-    bottom:5px;
+    bottom:0px;
     width: 290px;
     background-color:  #4aaaa5;
     color: white;
